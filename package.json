@@ -1,5 +1,5 @@
 {
-  "name": "multi-loader",
+  "name": "multiplex-loader",
   "version": "0.1.0",
   "description": "A loader that splits a module into multiple modules loaded with different loaders.",
   "main": "index.js",
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/webpack/multi-loader.git"
+    "url": "https://github.com/macropodhq/multiplex-loader.git"
   },
   "keywords": [
     "webpack",
     "loader",
     "multi"
   ],
-  "author": "Tobias Koppers @sokra",
+  "author": "Jessica Stokes <jessica.stokes@macropod.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/webpack/multi-loader/issues"
+    "url": "https://github.com/macropodhq/multiplex-loader/issues"
   },
-  "homepage": "https://github.com/webpack/multi-loader"
+  "homepage": "https://github.com/macropodhq/multiplex-loader"
 }
