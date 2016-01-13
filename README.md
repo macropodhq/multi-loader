@@ -1,5 +1,7 @@
 # Multiplex Loader
 
+_**Note**: This repository is not currently updated, development of multiplex-loader will continue at <https://github.com/kavu/multiplex-loader>._
+
 This loader requires a module with several loaders. Each loader's exports are returned using the same key as they are configured under.
 
 Example:
